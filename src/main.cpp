@@ -212,10 +212,13 @@ int main(void)
             {
                 digitalWrite(LED1, LOW);
                 punkt = false;
+                digitalWrite(BUZZER, BUZZER_ON);
+                digitalWrite(BUZZER, BUZZER_OFF);
             }
             else
             {
                 digitalWrite(LED1, HIGH);
+
                 punkt = true;
             }
             if (passed_time > 1000)
