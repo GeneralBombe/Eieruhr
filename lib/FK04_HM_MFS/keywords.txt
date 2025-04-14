@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map for HM-FK04 MFS
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initMFS	KEYWORD2
+writeDecToSegment	KEYWORD2
+writeHexToSegment	KEYWORD2
+writeCharToSegment	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+LED1 	LITERAL1
+LED2 	LITERAL1
+LED3 	LITERAL1
+LED4 	LITERAL1
+S1 		LITERAL1
+S2 		LITERAL1
+S3 		LITERAL1
+POTI 		LITERAL1
+BUZZER 		LITERAL1
+BUZZER_ON 	LITERAL1
+BUZZER_OFF 	LITERAL1
+MFS_LOW 	LITERAL1
+MFS_HIGH 	LITERAL1
+
+SEGMENT_MAP_LEN	LITERAL1
+SEGMENT_CLEAR 	LITERAL1
+SEGMENT_DASH 	LITERAL1

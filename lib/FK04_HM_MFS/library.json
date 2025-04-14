@@ -1,0 +1,29 @@
+{
+  "name": "FK04-HM MFS",
+  "version": "1.0.0",
+  "keywords": "FK04 Multi Function Shield Library",
+  "description": "Provides symbolic constants and functions to simplifies the use of the multi function shield.",
+  "headers": "mfs.h"
+  "authors":
+  [
+    {
+        "name": "Marek Galek",
+        "email": "marek.galek@hm.edu",
+    },
+    {
+        "name": "Walter Tasin",
+        "email": "tasin@hm.edu",
+    },
+    {
+        "name": "Gerhard Schillhuber",
+        "email": "gerhard.schillhuber@hm.edu",
+    }
+  ]
+  "repository":
+  {
+    "type": "",
+    "url": ""
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
