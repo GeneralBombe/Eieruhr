@@ -162,7 +162,6 @@ int main(void)
                 ganzzahl = true;
                 time = millis();
             }
-            /* code */
             break;
         }
 
